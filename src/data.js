@@ -691,6 +691,25 @@ module.exports = [
     ],
   },
   {
+    name: 'Superoutman',
+    description: 'Freelance Designer from China',
+    url: 'https://funnn.it/',
+    emoji: '🥷',
+    country: '🇨🇳',
+    computer: 'apple',
+    phone: 'iphone',
+    tags: [
+      'macOS',
+      'Figma',
+      'Midjourney',
+      'Framer',
+      'Eagle',
+      'Notion',
+      'Designer',
+      'Maker',
+    ],
+  },
+  {
     name: 'Ibrahim Nurul Huda',
     description:
       'creates visual narratives on web development, design, and Sharia studies.',
